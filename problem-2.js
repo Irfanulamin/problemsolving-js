@@ -3,6 +3,5 @@
 
 function getTitlesOfBooks(arrOfBooks) {
   const titlesOfBooks = arrOfBooks.map((book) => book.title);
-
   return titlesOfBooks;
 }
